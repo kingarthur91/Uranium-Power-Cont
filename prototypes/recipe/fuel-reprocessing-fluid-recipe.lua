@@ -13,7 +13,7 @@ data:extend({
 			{type="fluid", name="nitrogen-gas", amount=20},
 			{type="fluid", name="oxygen-gas", amount=4}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/atmospheric-distillation.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/atmospheric-distillation.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "ba"
@@ -33,7 +33,7 @@ data:extend({
 		{
 			{type="fluid", name="hydrogen-gas", amount=40}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/h2-gas.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/h2-gas.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "bb"
@@ -53,7 +53,7 @@ data:extend({
 		{
 			{type="fluid", name="ammonia-gas", amount=10}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/nh3-gas.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/nh3-gas.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "bc"
@@ -75,7 +75,7 @@ data:extend({
 			{type="fluid", name="concentrate-nitric-acid", amount=40},
 			{type="fluid", name="water", amount=40}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/conc-hno3.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/conc-hno3.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "bd"
@@ -96,7 +96,7 @@ data:extend({
 			{type="fluid", name="hydroxylamine", amount=10},
 			{type="fluid", name="water", amount=20}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/hydroxylamine.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/hydroxylamine.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "be"
@@ -116,7 +116,7 @@ data:extend({
 		{
 			{type="fluid", name="concentrate-phosphoric-acid", amount=15}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/conc-h3po4.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/conc-h3po4.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "bf"
@@ -136,7 +136,7 @@ data:extend({
 		{
 			{type="fluid", name="tbp", amount=15}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/tbp.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/tbp.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "bg"
@@ -156,7 +156,7 @@ data:extend({
 		{
 			{type="fluid", name="dilute-nitric-acid", amount=60}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/dilute-hno3.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/dilute-hno3.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "ca"
@@ -176,7 +176,7 @@ data:extend({
 		{
 			{type="fluid", name="uranyl-nitrate", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/uranylnitrate.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/uranylnitrate.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "cb"
@@ -196,7 +196,7 @@ data:extend({
 		{
 			{type="fluid", name="pu-reductant", amount=50}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-reductant.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/pu-reductant.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "cc"
@@ -216,7 +216,7 @@ data:extend({
 			{type="fluid", name="uranyl-nitrate", amount=19},
 			{type="fluid", name="waste-nitric-acid", amount=20}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-complex.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/waste-complex.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "cd"
@@ -237,7 +237,7 @@ data:extend({
 			{type="fluid", name="tbp", amount=45},
 			{type="fluid", name="waste-nitric-acid", amount=50}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-tbp.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/waste-tbp.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "cf"
@@ -258,7 +258,7 @@ data:extend({
 			{type="fluid", name="recovered-nitric-acid", amount=50},
 			{type="fluid", name="waste", amount=10}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/recd-hno3.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/recd-hno3.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "cg"
@@ -278,7 +278,7 @@ data:extend({
 			{type="fluid", name="concentrate-nitric-acid", amount=30},
 			{type="fluid", name="water", amount=20}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/hno3-concentration-recipe.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/hno3-concentration-recipe.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "ch"
@@ -297,7 +297,7 @@ data:extend({
 		{
 			{type="item", name="waste-glass", amount=1}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-glass.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/waste-glass.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing-fluids",
 		order = "ci"
@@ -318,7 +318,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=1700},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-04.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-04.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "a"
@@ -339,7 +339,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=2200},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-05.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-05.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "b"
@@ -360,7 +360,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=2700},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-06.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-06.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "c"
@@ -381,7 +381,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=3200},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-07.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-07.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "d"
@@ -402,7 +402,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=3700},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-08.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-08.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "e"
@@ -423,7 +423,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=4200},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-09.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-09.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "f"
@@ -444,7 +444,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=4700},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-10.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-10.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "g"
@@ -465,7 +465,7 @@ data:extend({
 			{type="fluid", name="liquid-spent-fuel", amount=5700},
 			{type="item", name="fuel-cladding", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/spent-fuel-assembly-11.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/spent-fuel-assembly-11.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-dissolution",
 		order = "h"
@@ -486,7 +486,7 @@ data:extend({
 			{type="fluid", name="primary-stream", amount=100},
 			{type="fluid", name="waste-nitric-acid", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/primary-stream.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/primary-stream.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "a"
@@ -507,7 +507,7 @@ data:extend({
 			{type="fluid", name="u-tbp", amount=100},
 			{type="fluid", name="pu-aqueous", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-pu-partitioning.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/u-pu-partitioning.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "b"
@@ -528,7 +528,7 @@ data:extend({
 			{type="fluid", name="u-tbp-aqueous", amount=100},
 			{type="fluid", name="waste-nitric-acid", amount=20}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-tbp-aq.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/u-tbp-aq.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "c"
@@ -549,7 +549,7 @@ data:extend({
 			{type="fluid", name="waste-tbp", amount=100},
 			{type="fluid", name="u-aqueous", amount=40}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-aq.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/u-aq.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "d"
@@ -569,7 +569,7 @@ data:extend({
 		{
 			{type="fluid", name="pu(iv)-aqueous", amount=150}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-iv-aq.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/pu-iv-aq.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "e"
@@ -590,7 +590,7 @@ data:extend({
 			{type="fluid", name="pu(iv)-tbp", amount=50},
 			{type="fluid", name="waste-complex", amount=100}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-iv-tbp.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/pu-iv-tbp.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "f"
@@ -610,7 +610,7 @@ data:extend({
 			{type="fluid", name="water", amount=5},
 			{type="item", name="uranium-dioxide", amount=1}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/uo2.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/uo2.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "g"
@@ -631,7 +631,7 @@ data:extend({
 			{type="item", name="plutonium-dioxide", amount=1},
 			{type="fluid", name="waste-tbp", amount=50}
 		},
-		icon = "__UraniumPower__/graphics/icons/recycling-assets/puo2.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/recycling-assets/puo2.png",
 		icon_size = 32,
 		subgroup = "uranium-fuel-reprocessing",
 		order = "h"

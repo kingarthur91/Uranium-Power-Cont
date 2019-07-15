@@ -35,7 +35,7 @@ data:extend({
 		{
 			left =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-left.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-left.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160,
@@ -43,7 +43,7 @@ data:extend({
 			},
 			down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-down.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -51,7 +51,7 @@ data:extend({
 			},
 			left_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-left-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-left-down.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -59,7 +59,7 @@ data:extend({
 			},
 			right_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-right-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-right-down.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160,
@@ -67,7 +67,7 @@ data:extend({
 			},
 			left_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-left-up.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-left-up.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -75,7 +75,7 @@ data:extend({
 			},
 			right_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-right-up.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-right-up.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -83,7 +83,7 @@ data:extend({
 			},
 			t_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-t-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-t-down.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -91,7 +91,7 @@ data:extend({
 			},
 			t_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/3-by-3-left.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/3-by-3-left.png",
 				priority = "extra-high",
 				width = 180,
 				height = 160, 
@@ -153,7 +153,7 @@ data:extend({
 		{
 			left =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-left.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-left.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350,
@@ -161,7 +161,7 @@ data:extend({
 			},
 			down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-down.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 
@@ -169,7 +169,7 @@ data:extend({
 			},
 			left_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-left-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-left-down.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 
@@ -177,7 +177,7 @@ data:extend({
 			},
 			right_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-right-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-right-down.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350,
@@ -185,7 +185,7 @@ data:extend({
 			},
 			left_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-left-up.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-left-up.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 
@@ -193,7 +193,7 @@ data:extend({
 			},
 			right_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-right-up.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-right-up.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 
@@ -201,7 +201,7 @@ data:extend({
 			},
 			t_down =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-t-down.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-t-down.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 
@@ -209,7 +209,7 @@ data:extend({
 			},
 			t_up =
 			{
-				filename = "__UraniumPower__/graphics/entity/nuclear-fission-reactor/5-by-5-left.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/nuclear-fission-reactor/5-by-5-left.png",
 				priority = "extra-high",
 				width = 400,
 				height = 350, 

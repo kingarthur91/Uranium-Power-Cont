@@ -3,8 +3,8 @@ data:extend(
 	{
 		type = "item",
 		name = "reactor-turbine-generator-01a",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator/turbinegeniconLU.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinegeniconLU.png",
+		flags = {},
 		subgroup = "uranium-energy-conversion",
 		order = "c[uranium]",
 		stack_size = 5,
@@ -13,8 +13,8 @@ data:extend(
 	{
 		type = "item",
 		name = "reactor-turbine-generator-01b",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator/turbinegeniconRD.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinegeniconRD.png",
+		flags = {},
 		subgroup = "uranium-energy-conversion",
 		order = "c[uranium]",
 		stack_size = 5,

@@ -38,7 +38,7 @@ function get_circuit_connector_sprites_1(mainOffset, shadowOffset, connectorNumb
   {
     connector_main =
     {
-      filename = "__UraniumPower__/graphics/entity/null/null.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
       priority = "low",
       width = 28,
       height = 27,
@@ -48,7 +48,7 @@ function get_circuit_connector_sprites_1(mainOffset, shadowOffset, connectorNumb
     },
     led_red =
     {
-      filename = "__UraniumPower__/graphics/entity/null/null.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
       priority = "low",
       width = 28,
       height = 27,
@@ -58,7 +58,7 @@ function get_circuit_connector_sprites_1(mainOffset, shadowOffset, connectorNumb
     },
     led_green =
     {
-      filename = "__UraniumPower__/graphics/entity/null/null.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
       priority = "low",
       width = 28,
       height = 27,
@@ -68,7 +68,7 @@ function get_circuit_connector_sprites_1(mainOffset, shadowOffset, connectorNumb
     },
     led_blue =
     {
-      filename = "__UraniumPower__/graphics/entity/null/null.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
       priority = "low",
       width = 28,
       height = 27,
@@ -102,7 +102,7 @@ function get_circuit_connector_sprites_1(mainOffset, shadowOffset, connectorNumb
   if (not (shadowOffset == nil)) then
     result.connector_shadow =
     {
-      filename = "__UraniumPower__/graphics/entity/null/null.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
       priority = "low",
       width = 28,
       height = 27,

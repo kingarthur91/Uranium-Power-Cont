@@ -1,8 +1,8 @@
 data:extend({
 	{
 		type = "item",
-		icon = "__UraniumPower__/graphics/icons/reactor-port-icon.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/icons/reactor-port-icon.png",
+		flags = {},
 		subgroup = "storage",
 		order = "a[items]-c[steel-chest]",
 		stack_size = 50,
@@ -11,8 +11,8 @@ data:extend({
 	},
 	{
 		type = "item",
-		icon = "__UraniumPower__/graphics/icons/reactor-port-icon.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/icons/reactor-port-icon.png",
+		flags = {},
 		subgroup = "storage",
 		order = "a[items]-c[steel-chest]",
 		stack_size = 50,

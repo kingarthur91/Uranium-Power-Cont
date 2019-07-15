@@ -3,7 +3,7 @@ data:extend(
   {
     type = "resource",
     name = "uraninite",
-    icon = "__UraniumPower__/graphics/icons/uraninite.png",
+    icon = "__UraniumPowerRemastered__/graphics/icons/uraninite.png",
 	icon_size = 32,
     flags = {"placeable-neutral"},
     order="a-b-e",
@@ -55,7 +55,7 @@ data:extend(
     {
 		sheet =
 		{
-			filename = "__UraniumPower__/graphics/entity/uraninite/uraninite.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/uraninite/uraninite.png",
 			priority = "extra-high",
 			width = 38,
 			height = 38,
@@ -68,7 +68,7 @@ data:extend(
   {
     type = "resource",
     name = "fluorite",
-    icon = "__UraniumPower__/graphics/icons/fluorite.png",
+    icon = "__UraniumPowerRemastered__/graphics/icons/fluorite.png",
 	icon_size = 32,
     flags = {"placeable-neutral"},
     order="a-b-f",
@@ -120,7 +120,7 @@ data:extend(
     {
 		sheet =
 		{
-			filename = "__UraniumPower__/graphics/entity/fluorite/fluorite.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/fluorite/fluorite.png",
 			priority = "extra-high",
 			width = 38,
 			height = 38,

@@ -2,7 +2,7 @@ data:extend({
   {
     type = "container",
 	name = "nuclear-fission-reactor-chest-15",
-    icon = "__UraniumPower__/graphics/icons/reactor-port-icon.png",
+    icon = "__UraniumPowerRemastered__/graphics/icons/reactor-port-icon.png",
     flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
     max_health = 200,
     corpse = "small-remnants",
@@ -20,7 +20,7 @@ data:extend({
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
     picture =
     {
-      filename = "__UraniumPower__/graphics/entity/reactor-port/prototype-reactor-port.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/reactor-port/prototype-reactor-port.png",
       priority = "extra-high",
       width = 63,
       height = 44,
@@ -31,7 +31,7 @@ data:extend({
   {
     type = "container",
 	name = "nuclear-fission-reactor-chest-25",
-    icon = "__UraniumPower__/graphics/icons/reactor-port-icon.png",
+    icon = "__UraniumPowerRemastered__/graphics/icons/reactor-port-icon.png",
     flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
     max_health = 200,
     corpse = "small-remnants",
@@ -49,7 +49,7 @@ data:extend({
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
     picture =
     {
-      filename = "__UraniumPower__/graphics/entity/reactor-port/prototype-reactor-port.png",
+      filename = "__UraniumPowerRemastered__/graphics/entity/reactor-port/prototype-reactor-port.png",
       priority = "extra-high",
       width = 63,
       height = 44,

@@ -3,7 +3,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-feed-water-box",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/feedwaterboxicon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/feedwaterboxicon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -34,7 +34,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/turbineinternalfeedwaterHV.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/turbineinternalfeedwaterHV.png",
 				priority = "extra-high",
 				frames = 2,
 				width = 540,
@@ -152,7 +152,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-cold-leg-box",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/coldlegicon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/coldlegicon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -183,7 +183,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/coldlegtank.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/coldlegtank.png",
 				priority = "extra-high",
 				frames = 2,
 				width = 540,
@@ -301,7 +301,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-low-p-steam-box-01",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -331,7 +331,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservea0.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservea0.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -449,7 +449,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-low-p-steam-box-02",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -478,7 +478,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservea2.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservea2.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -596,7 +596,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-low-p-steam-box-03",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -625,7 +625,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreserveb0.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreserveb0.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -743,7 +743,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "turbine-generator-low-p-steam-box-04",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreservoiricon.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.05},
 		max_health = 50,
@@ -772,7 +772,7 @@ data:extend(
 		  {
 			sheet =
 			{
-				filename = "__UraniumPower__/graphics/entity/turbine-generator-internals/steamreserveb2.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator-internals/steamreserveb2.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,

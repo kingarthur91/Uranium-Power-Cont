@@ -3,7 +3,7 @@ data:extend(
 {
 		type = "assembling-machine",
 		name = "coal-burner",
-		icon = "__UraniumPower__/graphics/entity/coal-burner/coal-burner-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/coal-burner/coal-burner-icon.png",
 		icon_size = 32,
 		flags = {"placeable-neutral", "placeable-player", "player-creation"},
 		minable = {hardness = 0.2, mining_time = 0.5, result = "coal-burner"},
@@ -41,10 +41,10 @@ data:extend(
 		selection_box = {{-1, -1}, {1, 1}},
 		animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/coal-burner/coal-burner.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/coal-burner/coal-burner.png",
 			priority = "high",
-			width = 91,
-			height = 69,
+			width = 84,
+			height = 66,
 			frame_count = 1,
 			line_length = 1,
 			shift = {0.46875, 0.09375}
@@ -58,7 +58,7 @@ data:extend(
 				west_position = {0.0, 0.0},
 				animation =
 				{
-					filename = "__UraniumPower__/graphics/entity/coal-burner/coal-burner-fire.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/coal-burner/coal-burner-fire.png",
 					priority = "high",
 					width = 36,
 					height = 19,

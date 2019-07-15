@@ -3,14 +3,14 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-coal-processing",
-		icon = "__UraniumPower__/graphics/technology/coal-processing-tech.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/coal-processing-tech.png",
 		icon_size = 128,
 		prerequisites = {"steel-processing"},
 		unit =
 		{
 			count = 20,
 			ingredients = {
-				{"science-pack-1", 1}
+				{"automation-science-pack", 1}
 			},
 			time = 15
 		},
@@ -30,15 +30,15 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-processing",
-		icon = "__UraniumPower__/graphics/technology/uranium-processing-tech.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/uranium-processing-tech.png",
 		icon_size = 128,
 		prerequisites = {"sulfur-processing"},
 		unit =
 		{
 			count = 75,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 30
 		},
@@ -101,15 +101,15 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-standard-fuel-fabrication",
-		icon = "__UraniumPower__/graphics/technology/standard-fuel-processing-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/standard-fuel-processing-tech-icon.png",
 		icon_size = 128,
 		prerequisites = {"uranium-processing"},
 		unit =
 		{
 			count = 75,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 30
 		},
@@ -181,16 +181,16 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-advanced-fuel-fabrication-tier1",
-		icon = "__UraniumPower__/graphics/technology/fuel-fabrication-1.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/fuel-fabrication-1.png",
 		icon_size = 128,
 		prerequisites = {"uranium-standard-fuel-reprocessing"},
 		unit =
 		{
 			count = 150,
 			ingredients = {
-				{"science-pack-1", 3},
-				{"science-pack-2", 2},
-				{"science-pack-3", 1}
+				{"automation-science-pack", 3},
+				{"logistic-science-pack", 2},
+				{"chemical-science-pack", 1}
 			},
 			time = 90
 		},
@@ -210,15 +210,15 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-military-tier1",
-		icon = "__UraniumPower__/graphics/technology/uranium-bullet-tech-1.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/uranium-bullet-tech-1.png",
 		icon_size = 128,
 		prerequisites = {"military-2", "uranium-processing"},
 		unit =
 		{
 			count = 30,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 30
 		},
@@ -233,16 +233,16 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-military-tier2",
-		icon = "__UraniumPower__/graphics/technology/uranium-bullet-tech-2.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/uranium-bullet-tech-2.png",
 		icon_size = 128,
 		prerequisites = {"tanks", "uranium-military-tier1"},
 		unit =
 		{
 			count = 60,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1},
-				{"science-pack-3", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1},
+				{"chemical-science-pack", 1}
 			},
 			time = 30
 		},
@@ -257,16 +257,16 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-military-tier3",
-		icon = "__UraniumPower__/graphics/technology/uranium-bullet-tech-3.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/uranium-bullet-tech-3.png",
 		icon_size = 128,
 		prerequisites = {"explosive-rocketry", "uranium-military-tier2", "uranium-standard-fuel-reprocessing"},
 		unit =
 		{
 			count = 150,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1},
-				{"science-pack-3", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1},
+				{"chemical-science-pack", 1}
 			},
 			time = 30
 		},
@@ -281,15 +281,15 @@ data:extend(
 	--[[{
 		type = "technology",
 		name = "uranium-advanced-fluid-management",
-		icon = "__UraniumPower__/graphics/technology/advanced-fluid-management-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/advanced-fluid-management-tech-icon.png",
 		icon_size = 128,
 		prerequisites = {"electric-engine", "uranium-processing"},
 		unit =
 		{
 			count = 50,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 30
 		},
@@ -313,15 +313,15 @@ data:extend(
 	--[[{
 		type = "technology",
 		name = "uranium-reactor-tier1",
-		icon = "__UraniumPower__/graphics/technology/reactor-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/reactor-tech-icon.png",
 		icon_size = 128,
 		prerequisites = {"uranium-advanced-fluid-management", "uranium-standard-fuel-fabrication"},
 		unit =
 		{
 			count = 100,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 60
 		},
@@ -389,15 +389,15 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-advanced-chemistry",
-		icon = "__UraniumPower__/graphics/technology/reprocessing-prereq-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/reprocessing-prereq-tech-icon.png",
 		icon_size = 128,
 		--prerequisites = {"uranium-reactor-tier1"},
 		unit =
 		{
 			count = 150,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 1}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 1}
 			},
 			time = 60
 		},
@@ -450,7 +450,7 @@ data:extend(
 	{
 		type = "technology",
 		name = "uranium-standard-fuel-reprocessing",
-		icon = "__UraniumPower__/graphics/technology/fuel-reprocessing-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/fuel-reprocessing-tech-icon.png",
 		icon_size = 128,
 
 		prerequisites = {"uranium-advanced-chemistry"},
@@ -458,8 +458,8 @@ data:extend(
 		{
 			count = 100,
 			ingredients = {
-				{"science-pack-1", 1},
-				{"science-pack-2", 2}
+				{"automation-science-pack", 1},
+				{"logistic-science-pack", 2}
 			},
 			time = 75
 		},
@@ -559,16 +559,16 @@ data:extend(
 	--[[{
 		type = "technology",
 		name = "uranium-reactor-tier1-advanced-heat-management",
-		icon = "__UraniumPower__/graphics/technology/heat-management-tech-icon.png",
+		icon = "__UraniumPowerRemastered__/graphics/technology/heat-management-tech-icon.png",
 		icon_size = 128,
 		prerequisites = {"advanced-electronics-2", "uranium-reactor-tier1"},
 		unit =
 		{
 			count = 75,
 			ingredients = {
-				{"science-pack-1", 2},
-				{"science-pack-2", 4},
-				{"science-pack-3", 1}
+				{"automation-science-pack", 2},
+				{"logistic-science-pack", 4},
+				{"chemical-science-pack", 1}
 			},
 			time = 60
 		},

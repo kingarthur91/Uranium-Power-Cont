@@ -3,8 +3,8 @@ data:extend(
 	{
 		type = "item",
 		name = "reactor-steam-generator-01",
-		icon = "__UraniumPower__/graphics/entity/steam-generator/steamgenprotoicon.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/entity/steam-generator/steamgenprotoicon.png",
+		flags = {},
 		subgroup = "uranium-energy-conversion",
 		order = "c[uranium]",
 		stack_size = 5,

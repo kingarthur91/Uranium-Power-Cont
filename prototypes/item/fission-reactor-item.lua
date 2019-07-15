@@ -1,8 +1,8 @@
 data:extend({
 	{
 		type = "item",
-		icon = "__UraniumPower__/graphics/icons/nuclear-fission-reactor.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/icons/nuclear-fission-reactor.png",
+		flags = {},
 		subgroup = "uranium-production-machine",
 		order = "d[uranium]",
 		stack_size = 10,
@@ -11,8 +11,8 @@ data:extend({
 	},
 	{
 		type = "item",
-		icon = "__UraniumPower__/graphics/icons/nuclear-fission-reactor.png",
-		flags = {"goes-to-quickbar"},
+		icon = "__UraniumPowerRemastered__/graphics/icons/nuclear-fission-reactor.png",
+		flags = {},
 		subgroup = "uranium-production-machine",
 		order = "d[uranium]",
 		stack_size = 10,

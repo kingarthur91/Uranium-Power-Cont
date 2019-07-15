@@ -3,7 +3,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "steam-generator-01-cold-input",
-		icon = "__UraniumPower__/graphics/entity/test-pipe/test-pipe-c.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/test-pipe/test-pipe-c.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.5},
 		max_health = 50,
@@ -34,7 +34,7 @@ data:extend(
 		{
 			north =
 			{
-				filename = "__UraniumPower__/graphics/entity/steam-generator-internals/steamgeninternalcold03.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/steamgeninternalcold03.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -44,7 +44,7 @@ data:extend(
 			},
 			east =
 			{
-				filename = "__UraniumPower__/graphics/entity/steam-generator-internals/steamgeninternalcold04.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/steamgeninternalcold04.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -54,7 +54,7 @@ data:extend(
 			},
 			south =
 			{
-				filename = "__UraniumPower__/graphics/entity/steam-generator-internals/steamgeninternalcold01.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/steamgeninternalcold01.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -64,7 +64,7 @@ data:extend(
 			},
 			west =
 			{
-				filename = "__UraniumPower__/graphics/entity/steam-generator-internals/steamgeninternalcold02.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/steamgeninternalcold02.png",
 				priority = "extra-high",
 				frames = 1,
 				width = 1000,
@@ -171,7 +171,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "reactor-pipe-bus-vert", --nee vertical pipe bus 01
-		icon = "__UraniumPower__/graphics/entity/4x1pipe/4x1pipeiconV.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/4x1pipe/4x1pipeiconV.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.1, mining_time = 0.1},
 		max_health = 100,
@@ -197,7 +197,7 @@ data:extend(
 			{
 				north =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL02.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL02.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -207,7 +207,7 @@ data:extend(
 				},
 				east =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -217,7 +217,7 @@ data:extend(
 				},
 				south =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL02.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL02.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -227,7 +227,7 @@ data:extend(
 				},
 				west =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames= 1,
 					width = 540,
@@ -333,7 +333,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "reactor-pipe-bus-horiz",
-		icon = "__UraniumPower__/graphics/entity/4x1pipe/4x1pipeiconV.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/4x1pipe/4x1pipeiconV.png",
 		flags = {"placeable-neutral", "placeable-player", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.1, mining_time = 0.1},
 		max_health = 100,
@@ -359,7 +359,7 @@ data:extend(
 			{
 				north =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -369,7 +369,7 @@ data:extend(
 				},
 				east =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -379,7 +379,7 @@ data:extend(
 				},
 				south =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,
@@ -389,7 +389,7 @@ data:extend(
 				},
 				west =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator-internals/STEAMGENINTERNAL01.png",
 					priority = "extra-high",
 					frames = 1,
 					width = 540,

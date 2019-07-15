@@ -179,8 +179,8 @@ data:extend({
 		{
 			filename = "__base__/graphics/entity/rocket/rocket-shadow.png",
 			frame_count = 1,
-			width = 10,
-			height = 30,
+			width = 7,
+			height = 24,
 			priority = "high"
 		},
 		smoke =
@@ -205,7 +205,7 @@ data:extend({
 		show_when_smoke_off = true,
 		animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/null/null.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
 			flags = { "compressed" },
 			priority = "low",
 			width = 224,
@@ -265,7 +265,7 @@ data:extend({
 		},
 		animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/null/null.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
 			frame_count = 1,
 			width = 224,
 			height = 108,
@@ -273,7 +273,7 @@ data:extend({
 		},
 		shadow =
 		{
-			filename = "__UraniumPower__/graphics/entity/null/null.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/null/null.png",
 			frame_count = 1,
 			width = 224,
 			height = 108,
@@ -287,7 +287,7 @@ data:extend({
 		animations =
 		{
 			{
-				filename = "__UraniumPower__/graphics/entity/explosions/uranium-explosion-1.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/explosions/uranium-explosion-1.png",
 				priority = "extra-high",
 				width = 256,
 				height = 256,
@@ -323,7 +323,7 @@ data:extend({
 		sound =
 			{
 			{
-			filename = "__UraniumPower__/sound/uranium-explosion-01.ogg",
+			filename = "__UraniumPowerRemastered__/sound/uranium-explosion-01.ogg",
 			volume = 1
 			},
 		}
@@ -400,7 +400,7 @@ data:extend({
 		animations =
 		{
 			{
-				filename = "__UraniumPower__/graphics/entity/explosions/LUQ.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/explosions/LUQ.png",
 				priority = "extra-high",
 				width = 256,
 				height = 256,
@@ -438,7 +438,7 @@ data:extend({
 		animations =
 		{
 			{
-				filename = "__UraniumPower__/graphics/entity/explosions/RUQ.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/explosions/RUQ.png",
 				priority = "extra-high",
 				width = 256,
 				height = 256,
@@ -476,7 +476,7 @@ data:extend({
 		animations =
 		{
 			{
-				filename = "__UraniumPower__/graphics/entity/explosions/LLQ.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/explosions/LLQ.png",
 				priority = "extra-high",
 				width = 256,
 				height = 256,
@@ -514,7 +514,7 @@ data:extend({
 		animations =
 		{
 			{
-				filename = "__UraniumPower__/graphics/entity/explosions/RLQ.png",
+				filename = "__UraniumPowerRemastered__/graphics/entity/explosions/RLQ.png",
 				priority = "extra-high",
 				width = 256,
 				height = 256,

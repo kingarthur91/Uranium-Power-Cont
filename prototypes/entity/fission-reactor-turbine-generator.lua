@@ -3,7 +3,7 @@ data:extend(
 	{
 		type = "generator",
 		name = "reactor-turbine-generator-01a",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator/turbinegeniconLU.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinegeniconLU.png",
 		flags = {"placeable-neutral", "placeable-player", "player-creation", "not-blueprintable", "not-deconstructable"},
 		minable = {mining_time = 1, result = "reactor-turbine-generator-01a"},
 		max_health = 1000,
@@ -37,7 +37,7 @@ data:extend(
 		},
 		vertical_animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/turbine-generator/turbineh.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbineh.png",
 			width = 1000,
 			height = 1000,
 			frame_count = 4,
@@ -50,7 +50,7 @@ data:extend(
 		},
 		horizontal_animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/turbine-generator/turbinev2.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinev2.png",
 			width = 1000,
 			height = 1000,
 			frame_count = 4,
@@ -73,7 +73,7 @@ data:extend(
 		{
 			sound =
 			{
-			filename = "__UraniumPower__/sound/turbinegen.ogg",
+			filename = "__UraniumPowerRemastered__/sound/turbinegen.ogg",
 			volume = 0.6
 			},
 			match_speed_to_activity = true,
@@ -84,7 +84,7 @@ data:extend(
 	{
 		type = "generator",
 		name = "reactor-turbine-generator-01b",
-		icon = "__UraniumPower__/graphics/entity/turbine-generator/turbinegeniconRD.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinegeniconRD.png",
 		flags = {"placeable-neutral", "placeable-player", "player-creation", "not-blueprintable", "not-deconstructable"},
 		minable = {mining_time = 1, result = "reactor-turbine-generator-01b"},
 		max_health = 1000,
@@ -118,7 +118,7 @@ data:extend(
 		},
 		vertical_animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/turbine-generator/turbineh2.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbineh2.png",
 			width = 1000,
 			height = 1000,
 			frame_count = 4,
@@ -128,7 +128,7 @@ data:extend(
 		},
 		horizontal_animation =
 		{
-			filename = "__UraniumPower__/graphics/entity/turbine-generator/turbinev.png",
+			filename = "__UraniumPowerRemastered__/graphics/entity/turbine-generator/turbinev.png",
 			width = 1000,
 			height = 1000,
 			frame_count = 4,
@@ -151,7 +151,7 @@ data:extend(
 		{
 			sound =
 			{
-			filename = "__UraniumPower__/sound/turbinegen.ogg",
+			filename = "__UraniumPowerRemastered__/sound/turbinegen.ogg",
 			volume = 0.6
 			},
 			match_speed_to_activity = true,

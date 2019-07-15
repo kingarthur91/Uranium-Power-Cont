@@ -2,9 +2,9 @@ data:extend({
 	{
 		type = "ammo",
 		name = "uranium-bullet-magazine",
-		icon = "__UraniumPower__/graphics/icons/uranium-bullet-magazine.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/uranium-bullet-magazine.png",
 		icon_size = 32,
-    flags = {"goes-to-main-inventory"},
+    flags = {},
 		ammo_type =
 		{
 			category = "bullet",
@@ -45,9 +45,9 @@ data:extend({
 	{
 		type = "ammo",
 		name = "uranium-cannon-shell",
-		icon = "__UraniumPower__/graphics/icons/uranium-cannon-shell.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/uranium-cannon-shell.png",
 		icon_size = 32,
-    flags = {"goes-to-main-inventory"},
+    flags = {},
 		ammo_type =
 		{
 			category = "cannon-shell",
@@ -78,9 +78,9 @@ data:extend({
 	{
 		type = "ammo",
 		name = "uranium-small-nuke-shell",
-		icon = "__UraniumPower__/graphics/icons/uranium-small-nuke-shell.png",
+		icon = "__UraniumPowerRemastered__/graphics/icons/uranium-small-nuke-shell.png",
 		icon_size = 32,
-    flags = {"goes-to-main-inventory"},
+    flags = {},
 		ammo_type =
 		{
 			category = "cannon-shell",

@@ -3,7 +3,7 @@ data:extend(
 	{
 		type = "storage-tank",
 		name = "reactor-steam-generator-01",
-		icon = "__UraniumPower__/graphics/entity/steam-generator/steamgenprotoicon.png",
+		icon = "__UraniumPowerRemastered__/graphics/entity/steam-generator/steamgenprotoicon.png",
 		flags = {"placeable-neutral", "placeable-player", "player-creation", "not-blueprintable", "not-deconstructable"},
 		minable = {hardness = 0.2, mining_time = 0.1, result = "reactor-steam-generator-01"},
 		max_health = 500,
@@ -36,7 +36,7 @@ data:extend(
 			{
 				north =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator/hidefsteamgen04.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator/hidefsteamgen04.png",
 					width = 1000,
 					height = 1000,
 					frame_count = 1,
@@ -46,7 +46,7 @@ data:extend(
 				},
 				east =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator/hidefsteamgen01.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator/hidefsteamgen01.png",
 					width = 1000,
 					height = 1000,
 					frame_count = 1,
@@ -56,7 +56,7 @@ data:extend(
 				},
 				south =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator/hidefsteamgen02.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator/hidefsteamgen02.png",
 					width = 1000,
 					height = 1000,
 					frame_count = 1,
@@ -66,7 +66,7 @@ data:extend(
 				},
 				west =
 				{
-					filename = "__UraniumPower__/graphics/entity/steam-generator/hidefsteamgen03.png",
+					filename = "__UraniumPowerRemastered__/graphics/entity/steam-generator/hidefsteamgen03.png",
 					width = 1000,
 					height = 1000,
 					frame_count = 1,
@@ -102,7 +102,7 @@ data:extend(
 		working_sound =
 		{
 		  sound = {
-			  filename = "__UraniumPower__/sound/steamgen.ogg",
+			  filename = "__UraniumPowerRemastered__/sound/steamgen.ogg",
 			  volume = 0.5
 		  },
 		  apparent_volume = 1.5,
