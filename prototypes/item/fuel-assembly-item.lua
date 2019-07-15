@@ -82,12 +82,16 @@ data:extend({
 	},
 	{
 		type = "item",
+		name = "fuel-assembly-10",
+		icon = "__UraniumPower__/graphics/icons/fuel-assembly-10.png",
+		icon_size = 32,
 		flags = {"goes-to-main-inventory"},
 		subgroup = "uranium-products",
 		order = "h[uranium]",
-		stack_size = 1,
-		name = "fuel-assembly-10",
-		icon = "__UraniumPower__/graphics/icons/fuel-assembly-10.png",
+		fuel_category = "nuclear",
+		burnt_result = "used-up-uranium-fuel-cell",
+		fuel_value = "8GJ",
+		stack_size = 1
 	},
 	{
 		type = "item",

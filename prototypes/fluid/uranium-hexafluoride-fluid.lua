@@ -11,6 +11,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-01",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-01.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -27,6 +28,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-02",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-02.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -43,6 +45,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-03",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-03.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -59,6 +62,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-04",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-04.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -75,6 +79,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-05",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-05.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -91,6 +96,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-06",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-06.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -107,6 +113,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-07",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-07.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -123,6 +130,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-08",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-08.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -139,6 +147,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-09",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-09.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"
@@ -155,6 +164,7 @@ data:extend({
     --order = "a[fluid]-g[uranium-hexafluoride]",
     name = "uranium-hexafluoride-10",
     icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-10.png",
+	icon_size = 32,
 	group = "uranium",
     subgroup = "uranium-fluids",
 	order = "a"

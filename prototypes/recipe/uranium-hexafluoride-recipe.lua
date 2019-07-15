@@ -16,6 +16,7 @@ data:extend(
 			{type="fluid", name="uraninite-slurry", amount=1},
 		},
 		icon = "__UraniumPower__/graphics/icons/coal-ash-extraction-recipe.png",
+		icon_size = 32,
 		subgroup = "uranium-prefluids",
 		order = "a"
 	},
@@ -82,6 +83,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ab",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="fluorine-gas", amount=50},
@@ -102,6 +104,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ac",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-02.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-02", amount=10}
@@ -121,6 +124,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ad",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-03.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-03", amount=10}
@@ -140,6 +144,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ae",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-04.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-04", amount=10}
@@ -159,6 +164,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "af",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-05.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-05", amount=10}
@@ -178,6 +184,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ag",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-06.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-06", amount=10}
@@ -197,6 +204,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ah",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-07.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-07", amount=10}
@@ -216,6 +224,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "ai",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-08.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-08", amount=10}
@@ -235,6 +244,7 @@ data:extend(
 		subgroup = "uranium-fluids",
 		order = "aj",
 		icon = "__UraniumPower__/graphics/icons/uranium-hexafluoride-09.png",
+		icon_size = 32,
 		ingredients =
 		{
 			{type="fluid", name="uranium-hexafluoride-09", amount=10}

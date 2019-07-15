@@ -10,6 +10,7 @@ data:extend(
 		base_color = {r=0, g=0.34, b=0.6},
 		flow_color = {r=0.7, g=0.7, b=0.7},
 		icon = "__UraniumPower__/graphics/icons/pressurized-water.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-a[pressurised-water]"
@@ -24,6 +25,7 @@ data:extend(
 		flow_color = {r=1, g=0.965, b=0.561},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/fluorine-gas.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-b[fluorine-gas]"
@@ -38,6 +40,7 @@ data:extend(
 		flow_color = {r=0.545, g=0.545, b=0.000},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/uraninite-slurry.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.05,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-c[uraninite-slurry]"
@@ -52,6 +55,7 @@ data:extend(
 		flow_color = {r=1, g=1, b=1},
 		max_temperature = 350,
 		icon = "__UraniumPower__/graphics/entity/steam/superheated-steam.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.9,
 		flow_to_energy_ratio = 0.85,
 		order = "a[fluid]-d[superheated-steam]"
@@ -66,6 +70,7 @@ data:extend(
 		flow_color = {r=1, g=1, b=1},
 		max_temperature = 300,
 		icon = "__UraniumPower__/graphics/entity/steam/low-pressure-steam.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.2,
 		flow_to_energy_ratio = 0.70,
 		order = "a[fluid]-e[low-pressure-steam]"

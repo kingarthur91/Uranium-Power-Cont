@@ -278,7 +278,7 @@ data:extend(
 			}
 		}
 	},
-	{
+	--[[{
 		type = "technology",
 		name = "uranium-advanced-fluid-management",
 		icon = "__UraniumPower__/graphics/technology/advanced-fluid-management-tech-icon.png",
@@ -309,8 +309,8 @@ data:extend(
 				recipe = "pressurised-water"
 			}
 		}
-	},
-	{
+	},]]
+	--[[{
 		type = "technology",
 		name = "uranium-reactor-tier1",
 		icon = "__UraniumPower__/graphics/technology/reactor-tech-icon.png",
@@ -385,13 +385,13 @@ data:extend(
 				recipe = "heat-exchange-pressurised-water-pressurised-water-02"
 			}
 		}
-	},
+	},]]
 	{
 		type = "technology",
 		name = "uranium-advanced-chemistry",
 		icon = "__UraniumPower__/graphics/technology/reprocessing-prereq-tech-icon.png",
 		icon_size = 128,
-		prerequisites = {"uranium-reactor-tier1"},
+		--prerequisites = {"uranium-reactor-tier1"},
 		unit =
 		{
 			count = 150,
@@ -556,7 +556,7 @@ data:extend(
 			}
 		}
 	},
-	{
+	--[[{
 		type = "technology",
 		name = "uranium-reactor-tier1-advanced-heat-management",
 		icon = "__UraniumPower__/graphics/technology/heat-management-tech-icon.png",
@@ -595,5 +595,5 @@ data:extend(
 				recipe = "reactor-turbine-generator-01b"
 			}
 		}
-	}
+	}]]
 })

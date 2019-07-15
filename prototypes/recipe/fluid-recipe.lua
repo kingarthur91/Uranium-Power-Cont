@@ -17,10 +17,11 @@ data:extend(
 			{"coal-ash", 4},
 		},
 		icon = "__UraniumPower__/graphics/icons/coal-ash-recipe.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "aa"
 	},
-	{
+	--[[{
 		type = "recipe",
 		name = "heat-exchange-water-water-01",
 		category = "heat-exchanger-01",
@@ -37,6 +38,7 @@ data:extend(
 			{type="fluid", name="water", amount=75},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "ab"
 	},
@@ -57,6 +59,7 @@ data:extend(
 			{type="fluid", name="water", amount=90},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "ac"
 	},
@@ -77,6 +80,7 @@ data:extend(
 			{type="fluid", name="pressurised-water", amount=90},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "ad"
 	},
@@ -97,6 +101,7 @@ data:extend(
 			{type="fluid", name="water", amount=90},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "ae"
 	},
@@ -117,6 +122,7 @@ data:extend(
 			{type="fluid", name="water", amount=180},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "af"
 	},
@@ -137,6 +143,7 @@ data:extend(
 			{type="fluid", name="pressurised-water", amount=180},
 		},
 		icon = "__UraniumPower__/graphics/entity/2x2-heat-exchanger/heatexchangerecipeicon.png",
+		icon_size = 32,
 		subgroup = "uranium-heatexchangerecipes",
 		order = "ag"
 	},
@@ -155,5 +162,5 @@ data:extend(
 			{type="fluid", name="pressurised-water", amount=10},
 		},
 		order = "b"
-	}
+	}]]
 })

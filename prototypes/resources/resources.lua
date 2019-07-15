@@ -4,6 +4,7 @@ data:extend(
     type = "resource",
     name = "uraninite",
     icon = "__UraniumPower__/graphics/icons/uraninite.png",
+	icon_size = 32,
     flags = {"placeable-neutral"},
     order="a-b-e",
     minable =
@@ -68,6 +69,7 @@ data:extend(
     type = "resource",
     name = "fluorite",
     icon = "__UraniumPower__/graphics/icons/fluorite.png",
+	icon_size = 32,
     flags = {"placeable-neutral"},
     order="a-b-f",
     minable =

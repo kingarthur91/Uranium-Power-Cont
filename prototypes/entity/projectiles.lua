@@ -21,6 +21,7 @@ data:extend({
 						{
 							type = "area",
 							perimeter = 10,
+							radius = 5.0,
 							action_delivery =
 							{
 								type = "instant",
@@ -108,6 +109,7 @@ data:extend({
 						{
 							type = "area",
 							perimeter = 30,
+							radius = 5.0,
 							action_delivery =
 							{
 								type = "instant",

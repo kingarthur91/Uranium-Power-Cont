@@ -1,5 +1,6 @@
 data:extend(
 {
+	--[[
 	{
 		type = "recipe",
 		name = "pressure-pump",
@@ -101,6 +102,7 @@ data:extend(
 		},
 		result= "R-reactor-circ-pump-01"
 	},
+	]]
 	{
 		type = "recipe",
 		name = "coal-burner",

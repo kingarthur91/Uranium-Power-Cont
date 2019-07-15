@@ -9,6 +9,7 @@ data:extend({
 		flow_color = {r=0.3, g=0.3, b=0.3},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/n2-gas.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-f[nitrogen-gas]"
@@ -23,6 +24,7 @@ data:extend({
 		flow_color = {r=01, g=1, b=1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/o2-gas.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-g[oxygen-gas]"
@@ -37,6 +39,7 @@ data:extend({
 		flow_color = {r=0.1, g=0.1, b=0.1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/h2-gas.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-h[hydrogen-gas]"
@@ -51,6 +54,7 @@ data:extend({
 		flow_color = {r=0.1, g=0.1, b=0.1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/nh3-gas.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-i[ammonia-gas]"
@@ -65,6 +69,7 @@ data:extend({
 		flow_color = {r=0.5, g=0.5, b=0},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/conc-hno3.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-j[concentrate-nho3]"
@@ -79,6 +84,7 @@ data:extend({
 		flow_color = {r=0.7, g=0.7, b=0.7},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/conc-h3po4.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-k[concentrate-h3po4]"
@@ -93,6 +99,7 @@ data:extend({
 		flow_color = {r=0.7, g=0.7, b=0.7},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/tbp.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-l[tbp]"
@@ -107,6 +114,7 @@ data:extend({
 		flow_color = {r=0.7, g=0.7, b=0.7},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/hydroxylamine.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-m[hydroxylamine]"
@@ -121,6 +129,7 @@ data:extend({
 		flow_color = {r=0.7, g=0.7, b=0.7},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/dilute-hno3.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-n[dilute-nitric-acid]"
@@ -135,6 +144,7 @@ data:extend({
 		flow_color = {r=0.3, g=0.31, b=1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/uranylnitrate.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-o[uranyl-nitrate]"
@@ -149,6 +159,7 @@ data:extend({
 		flow_color = {r=0.52, g=0.27, b=0.27},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-reductant.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-p[pu-reductant]"
@@ -163,6 +174,7 @@ data:extend({
 		flow_color = {r=0.23, g=1, b=0.41},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/liquid-spent-fuel.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-q[liquid-spent-fuel]"
@@ -177,6 +189,7 @@ data:extend({
 		flow_color = {r=0.92, g=0.23, b=1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/primary-stream.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-r[primary-stream]"
@@ -191,6 +204,7 @@ data:extend({
 		flow_color = {r=0.6, g=0, b=0.6},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-hno3.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-s[waste-nitric-acid]"
@@ -205,6 +219,7 @@ data:extend({
 		flow_color = {r=1, g=0.1, b=0.3},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-tbp.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-t[u-tbp]"
@@ -219,6 +234,7 @@ data:extend({
 		flow_color = {r=0.2, g=0.9, b=0.2},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-aq.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-u[pu-aqueous]"
@@ -233,6 +249,7 @@ data:extend({
 		flow_color = {r=1, g=0.1, b=0.3},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-tbp-aq.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-v[u-tbp-aqueous]"
@@ -247,6 +264,7 @@ data:extend({
 		flow_color = {r=1, g=0.1, b=0.3},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/u-aq.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-w[u-aqueous]"
@@ -261,6 +279,7 @@ data:extend({
 		flow_color = {r=0.4, g=0.4, b=0.4},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-tbp.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-x[waste-tbp]"
@@ -275,6 +294,7 @@ data:extend({
 		flow_color = {r=1, g=1, b=1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-iv-aq.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-y[pu(iv)-aqueous]"
@@ -289,6 +309,7 @@ data:extend({
 		flow_color = {r=1, g=1, b=1},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/pu-iv-tbp.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-z[pu(iv)-tbp]"
@@ -303,6 +324,7 @@ data:extend({
 		flow_color = {r=0.8, g=0.8, b=0.8},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste-complex.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-za[waste-complex]"
@@ -317,6 +339,7 @@ data:extend({
 		flow_color = {r=0.7, g=0.7, b=0},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/recovered-hno3.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-zb[recovered-nitric-acid]"
@@ -331,6 +354,7 @@ data:extend({
 		flow_color = {r=1, g=0.2, b=0.2},
 		max_temperature = 100,
 		icon = "__UraniumPower__/graphics/icons/recycling-assets/waste.png",
+		icon_size = 32,
 		pressure_to_speed_ratio = 0.4,
 		flow_to_energy_ratio = 0.59,
 		order = "a[fluid]-zc[waste]"

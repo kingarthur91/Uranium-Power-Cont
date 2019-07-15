@@ -3,7 +3,8 @@ data:extend({
 		type = "ammo",
 		name = "uranium-bullet-magazine",
 		icon = "__UraniumPower__/graphics/icons/uranium-bullet-magazine.png",
-		flags = {"goes-to-main-inventory"},
+		icon_size = 32,
+    flags = {"goes-to-main-inventory"},
 		ammo_type =
 		{
 			category = "bullet",
@@ -45,7 +46,8 @@ data:extend({
 		type = "ammo",
 		name = "uranium-cannon-shell",
 		icon = "__UraniumPower__/graphics/icons/uranium-cannon-shell.png",
-		flags = {"goes-to-main-inventory"},
+		icon_size = 32,
+    flags = {"goes-to-main-inventory"},
 		ammo_type =
 		{
 			category = "cannon-shell",
@@ -77,7 +79,8 @@ data:extend({
 		type = "ammo",
 		name = "uranium-small-nuke-shell",
 		icon = "__UraniumPower__/graphics/icons/uranium-small-nuke-shell.png",
-		flags = {"goes-to-main-inventory"},
+		icon_size = 32,
+    flags = {"goes-to-main-inventory"},
 		ammo_type =
 		{
 			category = "cannon-shell",
